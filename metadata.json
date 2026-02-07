@@ -1,0 +1,7 @@
+{
+  "name": "Grandmaster Chess Pro",
+  "description": "A feature-rich chess application with sound effects, move history, and Gemini-powered analysis, designed with a premium Chess.com aesthetic.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
